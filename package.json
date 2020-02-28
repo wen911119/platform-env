@@ -1,0 +1,8 @@
+{
+  "name": "@ruiyun/platform-env",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:wen911119/platform-env.git",
+  "author": "wen911119 <wen911119@gmail.com>",
+  "license": "MIT"
+}
